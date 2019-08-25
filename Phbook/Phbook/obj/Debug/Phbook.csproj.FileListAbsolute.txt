@@ -1,0 +1,6 @@
+C:\Users\hp-pc\source\repos\Phbook\Phbook\bin\Debug\Phbook.dll
+C:\Users\hp-pc\source\repos\Phbook\Phbook\bin\Debug\Phbook.pdb
+C:\Users\hp-pc\source\repos\Phbook\Phbook\obj\Debug\Phbook.csproj.CoreCompileInputs.cache
+C:\Users\hp-pc\source\repos\Phbook\Phbook\obj\Debug\Phbook.dll
+C:\Users\hp-pc\source\repos\Phbook\Phbook\obj\Debug\Phbook.pdb
+C:\Users\hp-pc\source\repos\Phbook\Phbook\obj\Debug\Phbook.csprojAssemblyReference.cache
